@@ -1,4 +1,4 @@
-# CollectionBuilder-CSV
+# Cabell County Public Library Collection Builder Project - CollectionBuilder-CSV
 
 **Note: CollectionBuilder-CSV is currently in an active development phase and may differ from the main CollectionBuilder documentation, including the metadata template. Please check "docs" folder in this project for up to date information.**
 
