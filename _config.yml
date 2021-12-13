@@ -12,34 +12,35 @@ url:
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: 
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
+source-code: https://github.com/wvlibrarycommission/cabellcountydl-cb
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder CSV
+title: Cabell County Public Library Local History Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: Welcome to the James E. Casto Local History Room Digital Collections
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: "Digitized items from the James E. Casto Local History Room at the Cabell County Public Library in Cabell County, West Virginia."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho;history;inland northwest
+keywords: west virginia;history;huntington, west virginia;cabell county, west virginia, cabell county public library
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: westvirginialibrarycommission
 # Organization branding
-organization-name: "Digital Initiatives, University of Idaho Library"
-organization-link: https://www.lib.uidaho.edu/digital/
-organization-logo-banner: https://www.lib.uidaho.edu/media/digital/justdi_logo_sm.png
-organization-logo-nav: https://www.lib.uidaho.edu/media/digital/bannerlogo_allwhite.png
+organization-name: "Cabell County Public Library"
+organization-link: https://cabellcounty.ent.sirsi.net/client/en_US/cabell
+organization-logo-banner: https://drive.google.com/file/d/1bwm1j0QcjjxmC_zKgoMyGieIaDFOQAI3/view?usp=sharing
+organization-logo-nav: https://drive.google.com/file/d/1bwm1j0QcjjxmC_zKgoMyGieIaDFOQAI3/view?usp=sharing
 
 ##########
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the CSV file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-metadata
+metadata: cabellpl_md_cb
+objects: https://drive.google.com/drive/folders/1bSDDqvUnm2A1zN7kr8vf48w6ES1x5rRF?usp=sharing
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 # page_gen:
