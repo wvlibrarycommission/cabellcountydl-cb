@@ -8,9 +8,13 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html objectid="/objects/barnettschool_01.jpg" %} 
 
 {% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+
+## About Phis Page
+
+This page is just a demo created to test this software. It should not be cited or used for research.
 
 ## About CollectionBuilder CSV
 
