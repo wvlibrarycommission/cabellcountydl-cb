@@ -12,7 +12,7 @@ credits: true
 
 {% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
 
-## About Phis Page
+## About This Page
 
 This page is just a demo created to test this software. It should not be cited or used for research.
 
