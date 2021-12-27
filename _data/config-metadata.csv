@@ -1,4 +1,4 @@
-field,display_name,browse_link,dc_map,schema_map
+field,display_name,browse_link,dc_map,schema_map,external_link
 title,Title,,DCTERMS.title,headline
 creator,Creator,,DCTERMS.creator,creator
 date,Date Created,,DCTERMS.created,dateCreated
@@ -12,3 +12,4 @@ identifier,Source Identifier
 type,Type,,DCTERMS.type
 format,Format,,,encodingFormat
 rightsstatement,,,DCTERMS.rights,license
+isShownAt,Page at Home Institution,,,,true
