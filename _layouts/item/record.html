@@ -31,6 +31,10 @@ item-meta: true
         <div class="col-md-6">
 
             {% include item/metadata.html %}
+
+            {% if page.isShownAt %}<dt>URL to Full Record:</dt>
+            <dd><a target="_blank" rel="noopener" href="{{ page.isShownAt }}">{{ page.isShownAt }}</a>
+            </dd>{% endif %}
             
         </div>
     </div>
