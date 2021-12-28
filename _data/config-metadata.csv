@@ -1,15 +1,16 @@
-field,display_name,browse_link,dc_map,schema_map,external_link
-title,Title,,DCTERMS.title,headline
-creator,Creator,,DCTERMS.creator,creator
-date,Date Created,,DCTERMS.created,dateCreated
-description,Description,,DCTERMS.description,description
-subject,Subjects,true,DCTERMS.subject,keywords
-location,Location,,,contentLocation
+field,display_name,browse_link,external_link,dc_map,schema_map
+title,Title,,,DCTERMS.title,headline
+creator,Creator,,,DCTERMS.creator,creator
+date,Date Created,,,DCTERMS.created,dateCreated
+description,Description,,,DCTERMS.description,description
+subject,Subjects,true,,DCTERMS.subject,keywords
+location,Location,,,,contentLocation
 latitude,Latitude
 longitude,Longitude
 source,Source
 identifier,Source Identifier
-type,Type,,DCTERMS.type
-format,Format,,,encodingFormat
-rightsstatement,,,DCTERMS.rights,license
-isShownAt,Page at Home Institution,,,,true
+type,Type,,,DCTERMS.type
+format,Format,,,,encodingFormat
+rightsstatement,,,,DCTERMS.rights,license
+isShownAt, Link to Full Record at Home Library,,true
+publisher,Publisher,,,DCTERMS.publisher
